@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SCRIPTS/score.cs">
+    <Files>
+      <File FileName="Assets/SCRIPTS/enterexit.cs" Line="124" Column="47" />
+      <File FileName="Assets/SCRIPTS/planescript.cs" Line="23" Column="23" />
+      <File FileName="Assets/SCRIPTS/planeenterexitscript.cs" Line="41" Column="35" />
+      <File FileName="Assets/SCRIPTS/score.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

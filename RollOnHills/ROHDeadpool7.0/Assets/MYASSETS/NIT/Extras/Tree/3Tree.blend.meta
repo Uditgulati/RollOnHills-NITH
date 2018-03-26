@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 88a8a078f29044289b8278f8491f3024
+timeCreated: 1521969622
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: leaves
+    100004: leaves_001
+    100006: leaves_001_MeshPart0
+    100008: leaves_001_MeshPart1
+    100010: leaves_001_MeshPart2
+    100012: leaves_001_MeshPart3
+    100014: leaves_001_MeshPart4
+    100016: leaves_001_MeshPart5
+    100018: leaves_002
+    100020: leaves_002_MeshPart0
+    100022: leaves_002_MeshPart1
+    100024: leaves_002_MeshPart2
+    100026: leaves_002_MeshPart3
+    100028: leaves_MeshPart0
+    100030: leaves_MeshPart1
+    100032: leaves_MeshPart2
+    100034: leaves_MeshPart3
+    100036: leaves_MeshPart4
+    100038: tree
+    100040: tree_001
+    100042: tree_001_MeshPart0
+    100044: tree_001_MeshPart1
+    100046: tree_002
+    100048: tree_002_MeshPart0
+    100050: tree_002_MeshPart1
+    100052: tree_MeshPart0
+    100054: tree_MeshPart1
+    400000: //RootNode
+    400002: leaves
+    400004: leaves_001
+    400006: leaves_001_MeshPart0
+    400008: leaves_001_MeshPart1
+    400010: leaves_001_MeshPart2
+    400012: leaves_001_MeshPart3
+    400014: leaves_001_MeshPart4
+    400016: leaves_001_MeshPart5
+    400018: leaves_002
+    400020: leaves_002_MeshPart0
+    400022: leaves_002_MeshPart1
+    400024: leaves_002_MeshPart2
+    400026: leaves_002_MeshPart3
+    400028: leaves_MeshPart0
+    400030: leaves_MeshPart1
+    400032: leaves_MeshPart2
+    400034: leaves_MeshPart3
+    400036: leaves_MeshPart4
+    400038: tree
+    400040: tree_001
+    400042: tree_001_MeshPart0
+    400044: tree_001_MeshPart1
+    400046: tree_002
+    400048: tree_002_MeshPart0
+    400050: tree_002_MeshPart1
+    400052: tree_MeshPart0
+    400054: tree_MeshPart1
+    2300000: leaves_001_MeshPart0
+    2300002: leaves_001_MeshPart1
+    2300004: leaves_001_MeshPart2
+    2300006: leaves_001_MeshPart3
+    2300008: leaves_001_MeshPart4
+    2300010: leaves_001_MeshPart5
+    2300012: leaves_002_MeshPart0
+    2300014: leaves_002_MeshPart1
+    2300016: leaves_002_MeshPart2
+    2300018: leaves_002_MeshPart3
+    2300020: leaves_MeshPart0
+    2300022: leaves_MeshPart1
+    2300024: leaves_MeshPart2
+    2300026: leaves_MeshPart3
+    2300028: leaves_MeshPart4
+    2300030: tree_001_MeshPart0
+    2300032: tree_001_MeshPart1
+    2300034: tree_002_MeshPart0
+    2300036: tree_002_MeshPart1
+    2300038: tree_MeshPart0
+    2300040: tree_MeshPart1
+    3300000: leaves_001_MeshPart0
+    3300002: leaves_001_MeshPart1
+    3300004: leaves_001_MeshPart2
+    3300006: leaves_001_MeshPart3
+    3300008: leaves_001_MeshPart4
+    3300010: leaves_001_MeshPart5
+    3300012: leaves_002_MeshPart0
+    3300014: leaves_002_MeshPart1
+    3300016: leaves_002_MeshPart2
+    3300018: leaves_002_MeshPart3
+    3300020: leaves_MeshPart0
+    3300022: leaves_MeshPart1
+    3300024: leaves_MeshPart2
+    3300026: leaves_MeshPart3
+    3300028: leaves_MeshPart4
+    3300030: tree_001_MeshPart0
+    3300032: tree_001_MeshPart1
+    3300034: tree_002_MeshPart0
+    3300036: tree_002_MeshPart1
+    3300038: tree_MeshPart0
+    3300040: tree_MeshPart1
+    4300000: tree_002_MeshPart0
+    4300002: tree_002_MeshPart1
+    4300004: leaves_002_MeshPart0
+    4300006: leaves_002_MeshPart1
+    4300008: leaves_002_MeshPart2
+    4300010: leaves_002_MeshPart3
+    4300012: tree_MeshPart0
+    4300014: tree_MeshPart1
+    4300016: leaves_MeshPart0
+    4300018: leaves_MeshPart1
+    4300020: leaves_MeshPart2
+    4300022: leaves_MeshPart3
+    4300024: leaves_MeshPart4
+    4300026: tree_001_MeshPart0
+    4300028: tree_001_MeshPart1
+    4300030: leaves_001_MeshPart0
+    4300032: leaves_001_MeshPart1
+    4300034: leaves_001_MeshPart2
+    4300036: leaves_001_MeshPart3
+    4300038: leaves_001_MeshPart4
+    4300040: leaves_001_MeshPart5
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves
+    second: {fileID: 2100000, guid: c637422379230498091ce4e384726f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_001
+    second: {fileID: 2100000, guid: b9069223e7ee44f7f84159b8014c3400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_002
+    second: {fileID: 2100000, guid: b5ccfa99dfe8b47a0afb22e7381e5a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 12dbe9738ec1246399e13614315dab60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

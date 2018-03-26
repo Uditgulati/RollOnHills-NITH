@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/mainUI.unity
+    guid: 8d917fd6972394886a759728a9fb7d9c
+  - enabled: 1
+    path: Assets/SCENES/HILLS.unity
+    guid: c36e4436b165544dea10c1ef49512192
+  - enabled: 1
+    path: Assets/SCENES/FreeWalk.unity
+    guid: d5502eb67cc564a02aad748db513c4e8
+  - enabled: 1
+    path: Assets/SCENES/BombMission.unity
+    guid: f23d4ac43d0764dc9a9299a2bb033274
+  - enabled: 1
+    path: Assets/SCENES/CarMission.unity
+    guid: d7a10233f872149b9a6e74c170ad2ebd
+  - enabled: 1
+    path: Assets/SCENES/HILLSNITH.unity
+    guid: 68b8cda8fab554475b40610eb2487174
+  - enabled: 1
+    path: Assets/SCENES/Credits.unity
+    guid: 336233c329338495b80b6ced7c9334d7
+  - enabled: 1
+    path: Assets/SCENES/Gameover.unity
+    guid: 4da6fa97c46934650af3abc985cbd774
+  - enabled: 1
+    path: Assets/SCENES/Help.unity
+    guid: ac1aa0e507e864958a12963365baa90e
+  - enabled: 1
+    path: Assets/SCENES/PlaneMission.unity
+    guid: 6010410f54470487aa5872e26e4c783c
+  - enabled: 1
+    path: Assets/SCENES/Score.unity
+    guid: c9d4bde39b25e41bebc4d2e3c40ed977

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7357568c758e4df0abf2ac1b9379482
+timeCreated: 1521978859
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Metal Macabre
+  fontNames:
+  - Metal Macabre
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: fca19e9d6c92f423fb54557e3f1fb100
+timeCreated: 1521965382
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: foot_L
+    100006: Foot_R
+    100008: FootCtrl_L
+    100010: FootCtrl_R
+    100012: footIK_L
+    100014: FootIK_R
+    100016: FootRollCtrl_L
+    100018: FootRollCtrl_R
+    100020: Hand_L
+    100022: Hand_R_001
+    100024: head
+    100026: HealRoll_L
+    100028: HealRoll_R
+    100030: HeapsCtrl
+    100032: IndexLow_L
+    100034: IndexLow_R_001
+    100036: IndexMid_L
+    100038: IndexMid_R_001
+    100040: IndexUp_L
+    100042: IndexUp_R_001
+    100044: KneeCtrl_L
+    100046: KneeCtrl_R
+    100048: LittleLow_L
+    100050: LittleLow_R_001
+    100052: LittleMid_L
+    100054: LittleMid_R_001
+    100056: LittleUp_L
+    100058: LittleUp_R_001
+    100060: LowArm_L
+    100062: LowArm_R_001
+    100064: LowLeg_L
+    100066: LowLeg_R_001
+    100068: MidLow_L
+    100070: MidLow_R_001
+    100072: MidMid_L
+    100074: MidMid_R_001
+    100076: MidUp_L
+    100078: MidUp_R_001
+    100080: neck
+    100082: Plane
+    100084: Plane_001
+    100086: RingLow_L
+    100088: RingLow_R_001
+    100090: RingMid_L
+    100092: RingMid_R_001
+    100094: RingUp_L
+    100096: RingUp_R_001
+    100098: root
+    100100: Sold_L
+    100102: Sold_R_001
+    100104: spine1
+    100106: spine2
+    100108: ThumbLow_L
+    100110: ThumbLow_R_001
+    100112: ThumbUp_L
+    100114: ThumbUp_R_001
+    100116: Toe_L
+    100118: Toe_R_001
+    100120: ToeRoll_L
+    100122: ToeRoll_R
+    100124: UpArm_L
+    100126: UpArm_R_001
+    100128: UpLeg_L
+    100130: UpLeg_R_001
+    400000: Armature
+    400002: //RootNode
+    400004: foot_L
+    400006: Foot_R
+    400008: FootCtrl_L
+    400010: FootCtrl_R
+    400012: footIK_L
+    400014: FootIK_R
+    400016: FootRollCtrl_L
+    400018: FootRollCtrl_R
+    400020: Hand_L
+    400022: Hand_R_001
+    400024: head
+    400026: HealRoll_L
+    400028: HealRoll_R
+    400030: HeapsCtrl
+    400032: IndexLow_L
+    400034: IndexLow_R_001
+    400036: IndexMid_L
+    400038: IndexMid_R_001
+    400040: IndexUp_L
+    400042: IndexUp_R_001
+    400044: KneeCtrl_L
+    400046: KneeCtrl_R
+    400048: LittleLow_L
+    400050: LittleLow_R_001
+    400052: LittleMid_L
+    400054: LittleMid_R_001
+    400056: LittleUp_L
+    400058: LittleUp_R_001
+    400060: LowArm_L
+    400062: LowArm_R_001
+    400064: LowLeg_L
+    400066: LowLeg_R_001
+    400068: MidLow_L
+    400070: MidLow_R_001
+    400072: MidMid_L
+    400074: MidMid_R_001
+    400076: MidUp_L
+    400078: MidUp_R_001
+    400080: neck
+    400082: Plane
+    400084: Plane_001
+    400086: RingLow_L
+    400088: RingLow_R_001
+    400090: RingMid_L
+    400092: RingMid_R_001
+    400094: RingUp_L
+    400096: RingUp_R_001
+    400098: root
+    400100: Sold_L
+    400102: Sold_R_001
+    400104: spine1
+    400106: spine2
+    400108: ThumbLow_L
+    400110: ThumbLow_R_001
+    400112: ThumbUp_L
+    400114: ThumbUp_R_001
+    400116: Toe_L
+    400118: Toe_R_001
+    400120: ToeRoll_L
+    400122: ToeRoll_R
+    400124: UpArm_L
+    400126: UpArm_R_001
+    400128: UpLeg_L
+    400130: UpLeg_R_001
+    2300000: Plane_001
+    3300000: Plane_001
+    4300000: Plane_001
+    4300002: Plane
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY
+    second: {fileID: 2100000, guid: 10965886554554388a6fccc998867ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 023484ec1da3d4fd58fe0f8ed921c98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: 3557a28e16ccc48ccae6e14d5b72f754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot
+    second: {fileID: 2100000, guid: 005655b2d41c94e29a7885827b1607db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: remains
+    second: {fileID: 2100000, guid: 0b1fbfaae555f45e5aba6aef66894c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sword
+    second: {fileID: 2100000, guid: bfb24d26ac90d4b1ca33dd2349f13cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: ee452409dcbf84aa6b22b0b76749e654, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
